@@ -656,6 +656,19 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       </p>
     </div>
   </div>
+    <div class="row">
+      <div class="col-md-4">
+      <p>
+      </p>
+    </div>
+    <div class="col-md-4">
+      <h4 id="r-linux">Post install</h4>
+      <p>
+        Once you have setup R and Rstudio - install the R package tidyverse before coming to the session.  Open R studio and paste install.packages("tidyverse") into the left hand pane and press enter - this install can take a while.
+      </p>
+    </div>
+  </div>
+
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
 {% comment %}
